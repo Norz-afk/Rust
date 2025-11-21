@@ -1,4 +1,4 @@
-# Gamma Controller
+# Gamma Controller ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 Программа для настройки гаммы монитора в реальном времени, специально разработанная для игры **Rust**. Позволяет улучшить видимость в ночное время и в теневых областях игры.
 
